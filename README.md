@@ -4,7 +4,7 @@
 Building fluency with postgresql using CMS data
 
 ## Data Source
-Data from the Centers for Meeicare & Medicaid Services (CMS) Hospital General Information dataset.
+Data from the Centers for Medicare & Medicaid Services (CMS) Hospital General Information dataset.
 
 ## Tech Stack
 - PostgreSQL
@@ -36,6 +36,18 @@ healthcare_sql/
 4. Run analysis:
     \i sql/03_analysis.sql
 
+## Assignment 1
+Basic SQL analysis of CMS hospital dataset
+## Assignment 2
+Intermediate SQL analysis of CMS hospital dataset
+
+Topics covered:
+- Conditional aggregation
+- Regex filtering
+- Data quality auditing
+- Window functions
+- Percent-of-total calculations
+- Creation of reusable analytics view (state_metrics)
 ## Key Findings
 
 ## Future Work
